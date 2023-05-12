@@ -510,8 +510,9 @@ section {
   color: #2c4964;
 }
 .about .content ul {
-  list-style: none;
+  list-style: circle;
   padding: 0;
+  padding-left: 25px;
 }
 .about .content ul li {
   padding-bottom: 10px;
